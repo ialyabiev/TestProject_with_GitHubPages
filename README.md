@@ -1,4 +1,4 @@
-datasciencecoursera
+TestProject with GitHubPages
 ===================
 
-Coursera, DataScience, Johns Hopkins University
+Just test working with GitHub Pages
